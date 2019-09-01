@@ -1,6 +1,6 @@
 # Project01 (Build a Portfolio Site)
 Build a portfolio site project01 of Front end development nano degree program from Udacity.
-This is the first project of nano degree program front end developement, this project uses [Bootstrap 4](https://getbootstrap.com/) for grid layout all other styling is done in a external stylesheet which is under the *css* folder. Please unzip project files to your local drive to review the project. Thank you 
+This is the first project of nano degree program front end developement, this project uses [Bootstrap 4](https://getbootstrap.com/) for grid layout all other styling is done in a external stylesheet which is under the *css* folder. Please unzip project files to your local drive to review the project. Thank you
 
 ## Link to images
 
